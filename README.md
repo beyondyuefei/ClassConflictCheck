@@ -18,6 +18,7 @@ java ClassConflictCheck xxx/WEB-INF/lib
 否则则有类似如下的冲突输出 （两处冲突了）：
 
 Class conflict!!! the class :org/aspectj/weaver/tools/MatchingContext.class has been duplicate inclusioned in the jars : [aspectjweaver-1.6.6.jar, eclipse.aspectj__aspectjweaver-1.5.2a.jar-0.0.0.jar, aspectjtools-1.6.2.jar, aspectjweaver-1.6.2.jar]
+
 Class conflict!!! the class :org/apache/batik/css/engine/value/css2/FontSizeAdjustManager.class has been duplicate inclusioned in the jars : [xml.xmlgraphics-1.7.jar, xml.xmlgraphics__batik-css-1.7.jar-1.7.jar]
 
 
