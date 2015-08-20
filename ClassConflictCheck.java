@@ -66,7 +66,7 @@ public class ClassConflictCheck {
                 }
                 List<String> jarList = Arrays.asList(jarSet.toArray(new String[] {}));
                 System.out.println("Class conflict!!! the class :" + entry.getKey()
-                        + " has been inclusioned in the jar : " + jarList);
+                        + " has been duplicate inclusioned in the jars : " + jarList);
             }
         }
 
