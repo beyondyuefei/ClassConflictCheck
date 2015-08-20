@@ -9,7 +9,9 @@
 使用说明，示例：
 
 cd liq/util
+
 javac ClassConflictCheck.java
+
 java ClassConflictCheck xxx/WEB-INF/lib
 
 如果没有任何类冲突，则输出:
